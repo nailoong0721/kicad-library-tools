@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.github_token
+node_modules/
+.DS_Store
+Thumbs.db
+kicad-cli.txt
+test-runs/
+.ad2kicadsch-*/
+.ad2kicadpcb-*/
