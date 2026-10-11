@@ -1,6 +1,6 @@
 # KiCad 库迁移工具套件
 
-包含 SchLib 转换、PcbLib 转换和 KiCad 库导入工具。本仓库收录现有 Windows 发布包，含 PowerShell 后端与 GUI 程序；该分享包未附 GUI 的 C# 源码。原包使用说明见 [docs/toolkit-readme.md](../README.md)。
+包含 SchLib 转换、PcbLib 转换和 KiCad 库导入工具。本仓库收录现有 Windows 发布包，含 PowerShell 后端与 GUI 程序；该分享包未附 GUI 的 C# 源码。原包使用说明见 [README.md](../README.md)。
 
 ## 文章与下载
 
